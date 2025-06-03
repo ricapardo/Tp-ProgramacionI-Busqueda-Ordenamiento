@@ -6,7 +6,7 @@ Contiene dos funciones principales:
 - binary_search(arr, target)
 
 Al ejecutar este script directamente, ordena una lista de ejemplo
-y busca un elemento para mostrar cómo funciona cada algoritmo.
+y busca un elemento para mostrar cómo funciona cada algoritmo
 """
 def binary_search(arr, target):
     """
