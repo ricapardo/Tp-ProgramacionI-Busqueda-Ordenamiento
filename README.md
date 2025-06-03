@@ -38,14 +38,14 @@ Python 3.10
 ## Pasos para Ejecutar los Scripts
 Cada algoritmo se encuentra en su propio archivo .py. Para ejecutar un script específico, sigue estos pasos:
 
-Navega al directorio del algoritmo deseado. Por ejemplo, si quieres ejecutar el bubble_sort.py que está en el directorio ordenamiento:
+Navega al directorio del algoritmo deseado. Por ejemplo, si quieres ejecutar el bubble_sort.py situado en el directorio del archivo:
 ```
 python bubble_sort.py
 
 ```
-O si estás en la raíz del repositorio y quieres ejecutarlo desde allí:
+O si quieres ejecutar el pruebas_rendimiento.py:
 ```
-python ordenamiento/bubble_sort.py
+python pruebas_rendimiento.py
 
 ```
 Cada script incluirá un ejemplo de uso dentro del mismo archivo para que puedas ver cómo funciona.
