@@ -49,3 +49,6 @@ python pruebas_rendimiento.py
 
 ```
 Cada script incluirá un ejemplo de uso dentro del mismo archivo para que puedas ver cómo funciona.
+
+Enlace al video explicativo en YouTube: 
+https://youtu.be/Mb9SJU3uhkI
